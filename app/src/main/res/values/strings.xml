@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 2 - 100746284_ADiker</string>
+    <string name="hello_blank_fragment">empty fragment</string>
+    <string name="title_activity_shake_alert_listener">ShakeAlertListener</string>
+</resources>
